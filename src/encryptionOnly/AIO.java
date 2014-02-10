@@ -27,7 +27,7 @@ public class AIO {
 	private static String input;
 	private static String inputString;
 	private static byte[] key = { 0x74, 0x68, 0x69, 0x73, 0x49, 0x73, 0x41,
-			0x53, 0x65, 0x63, 0x72, 0x65, 0x74, 0x4b, 0x65, 0x79 };// "thisIsASecretKey";
+			0x53 };// "thisIsASecretKey";
 	private static String keyString = "averylongtext!@$@#$#@$#*&(*&}{23432432432dsfsdf";
 
 	public void encryptor(String input) {
